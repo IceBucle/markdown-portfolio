@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub readme](https://github.com/IceBucle/markdown-portfolio/blob/main/README.md)
